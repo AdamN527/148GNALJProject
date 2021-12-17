@@ -2,7 +2,7 @@
 
 CMPE-148 Project:
 
-offline simulation
+Offline simulation
 
 For the offline simulation, the user must be able to run programs from python. When running the program, the console will wait to accept any response. 
 It will randomly pick a greeting from the list of greetings. If the user matches the expected greeting, the client will not roll back. Otherwise, it would go back to the
